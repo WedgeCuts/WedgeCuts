@@ -1,8 +1,4 @@
-Heya
-
-I can kinda code
-
-kinda
+dumbass that codes
 
 <!---
 WedgeCuts/WedgeCuts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
